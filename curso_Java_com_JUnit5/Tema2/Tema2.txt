@@ -1,0 +1,67 @@
+MÉTODOS AGEIS:
+
+-Agile
+	Indivíduos e interações são mais importantes que processos e ferramentas
+	Software funcionando é melhor que uma documentação densa e compreensiva
+	Responder à mudança ao invés de seguir um plano à risca (escopo aberto)
+	Necessário bastante disciplina e motivação
+	A prioridade é a satisfação do cliente, por isso as entregas frequentes para realinhar as vontades
+
+-Lean == Deming
+	Nasceu na indústria
+	Totalmente sobre princípios e visão. A visão de que a organização precisa otimizar o todo, e
+    não partes agregadas (como nos processadores, identificar onde acelerar ou não tbm faz sentido).
+    E a organização madura vem do empoderamento das pessoas que se organizam 
+    entre si. As pessoas pensantes também eliminam atividades desnecessárias e resolvem os problemas
+    na hora, para evitar acúmulo de tarefas e informação. Prezando sempre o aprendizado.
+
+-Kanban (um método dentro de Lean)
+	Aproach para mudar a forma como o gerente pensa
+	implica na mudança do usuário final, da gestão final, de comportamento e de forma de operação
+	trabalha a questão visual do quadro personalizado (n vai ser um pipeline tão genérico)
+	vai ter um fluxo com políticas explícitas sobre o fluxo
+	pelo que entendi, são elaborados fluxos iterativos dentro do fluxo de tempo do contrato
+
+-XP
+	método que foca em valores como: comunicação e simplicidade, coragem e feedback
+	whole team - todos responsáveis por tudo, contribuindo para os códigos que são de todes
+	planejamento, testes e conversas com o cliente com curto prazo e iterativas
+	padrões de código numa velocidade sustentável, já que muitas pessoas trabalham juntas
+	metáforas para facilitar o diálogo com o cliente
+	Design simples, intuitivo
+
+	double loop learning - para repensar as estratégias
+
+	escolher as ideias, quais são aplicáveis, fazem sentido e o quão robustas/detalhadas realmente precisam ser
+	pair programming para evitar erros
+	gráficos grandes e motivadores
+	Não acumular débitos técnicos
+
+-Scrum
+	backloging, sprints de 2 a 4 semanas, entregando softwares a cada sprint e fazendo a retrospectiva antes de começar um novo sprint
+	scrum master - times maduros não precisam
+	valores: coragem, foco, comprometimento, respeito e abertura
+	criado para não trabalhar com datas nem com escopo fechado
+
+
+PROBLEMAS COM AGILE
+	Uma das disciplinas não muito trabalhadas por agile, em métodos como por exemplo o scrum, é a questão da estrutura que está muito
+    presente em DevOps.
+	Outra questão é que para funcionar o cliente precisa estar comprometido e não apenas envolvido.
+	Alguns métodos ágeis não trabalham com um fim de projeto bem definido. O que traz dificuldades em dizer quando o projeto está pronto,
+    talvez desperdiçando tempo e/ou recursos.
+	Qualquer método ágil é intrinsecamente dependente do comportamento dos seres humanos envolvidos, o que constitui num ponto fraco para
+    métodos ágeis em geral, dependendo da empresa em que for implementado.
+
+
+QUAL A RELAÇÃO ENTRE AGILE/LEAN E BI MODAL E DEVOPS?
+
+	A cultura DevOps tem tudo a ver com Agile. Visto que, DevOps se consiste num grupo de pessoas de diversas áreas trabalhando com
+    ferramentas atuais e atualizadas, visando melhorar partes de TI da empresa. Ou seja, é necessário saber trabalhar em grupo, motivação
+    é mais que bem vinda, organização. Reuniões de equipe para se situarem onde estão, reconhecer/melhorar as falhas, comemorarem os
+    sucessos.
+	
+	Tanto Bi Modal quanto Lean buscam estar sempre se atualizando/inovando e revisando como está este processo. Mas Bi-Modal é mais
+    voltado para a gestão - como ela deve se atualizar, o que pode ser feito. Enquanto que Lean é voltado para toda a empresa, n somente
+    gestão. 
+

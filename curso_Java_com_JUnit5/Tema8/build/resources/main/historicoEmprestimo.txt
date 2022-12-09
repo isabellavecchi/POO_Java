@@ -1,0 +1,36 @@
+21;;26;José;null;0;0;true;0;3;;211;Hobbit;Tolkien;false;true;;2022-01-06;;2022-01-13;;null;;0;;true
+20;;26;José;null;0;0;true;0;3;;210;Guerra dos Tronos;George R. R. Martim;false;true;;2022-01-06;;2022-01-13;;null;;0;;true
+19;;26;José;null;0;0;true;0;3;;209;Guia do Mochileiro das Galáxias;Douglas Adams;false;true;;2022-01-06;;2022-01-13;;null;;0;;true
+18;;22;Maria;null;0;2;false;0;2;;206;Enchiridion;Epiteto;true;true;;2021-12-28;;2022-01-04;;null;;2;;false
+17;;22;Maria;null;0;2;false;0;2;;205;As Intermitências da Morte;José Saramago;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+16;;23;José;null;0;1;false;0;1;;207;Ética;Espinoza;true;true;;2021-12-28;;2022-01-04;;null;;2;;false
+15;;24;Ariel;null;0;1;false;0;1;;208;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;true;true;;2021-12-28;;2022-01-04;;null;;2;;false
+14;;19;Maria;null;0;1;true;0;1;;195;Guia do Mochileiro das Galáxias;Douglas Adams;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+13;;18;Ariel;null;0;1;true;0;1;;194;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;true;true;;2021-12-31;;2022-01-13;;null;;0;;false
+12;;14;José;null;0;5;true;0;5;;185;Enchiridion;Epiteto;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+11;;14;José;null;0;5;true;0;5;;184;As Intermitências da Morte;José Saramago;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+10;;14;José;null;0;5;true;0;5;;183;Hobbit;Tolkien;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+9;;14;José;null;0;5;true;0;5;;182;Guerra dos Tronos;George R. R. Martim;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+8;;14;José;null;0;5;true;0;5;;181;Guia do Mochileiro das Galáxias;Douglas Adams;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+7;;12;Ariel;null;0;1;true;0;1;;177;As Intermitências da Morte;José Saramago;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+6;;11;José;null;0;1;true;0;2;;176;Hobbit;Tolkien;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+5;;11;José;null;0;1;true;0;2;;175;Guerra dos Tronos;George R. R. Martim;false;true;;2022-01-06;;2022-01-13;;null;;0;;false
+4;;10;Maria;null;0;1;true;0;1;;174;Guia do Mochileiro das Galáxias;Douglas Adams;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+3;;9;Ariel;null;0;0;false;5;1;;173;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;false;true;;2021-12-29;;2022-01-05;;null;;1;;false
+2;;6;Ariel;null;0;0;false;10;1;;166;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;false;true;;2021-12-28;;2022-01-04;;null;;2;;false
+1;;1;Maria;null;0;0;true;0;1;;156;As Intermitências da Morte;José Saramago;false;true;;2022-01-06;;2022-01-13;;null;;0;;false
+22;;30;Ariel;null;0;1;true;0;1;;222;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+23;;31;Maria;null;0;2;true;0;2;;227;Enchiridion;Epiteto;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+24;;31;Maria;null;0;2;true;0;2;;228;Ética;Espinoza;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+25;;32;José;null;0;4;true;0;4;;223;Guia do Mochileiro das Galáxias;Douglas Adams;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+26;;32;José;null;0;4;true;0;4;;224;Guerra dos Tronos;George R. R. Martim;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+27;;32;José;null;0;4;true;0;4;;225;Hobbit;Tolkien;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+28;;32;José;null;0;4;true;0;4;;226;As Intermitências da Morte;José Saramago;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+29;;33;Ariel;null;0;1;true;0;1;;229;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+30;;34;0;null;0;1;true;0;1;;230;teste;desconhecido;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+31;;35;1;null;0;1;true;0;1;;231;teste;desconhecido;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+32;;36;2;null;0;1;true;0;1;;232;teste;desconhecido;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+33;;37;3;null;0;1;true;0;1;;233;teste;desconhecido;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+34;;38;4;null;0;1;true;0;1;;234;teste;desconhecido;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+35;;39;5;null;0;1;true;0;1;;235;teste;desconhecido;true;true;;2022-01-06;;2022-01-13;;null;;0;;false
+36;;40;6;null;0;1;true;0;1;;236;teste;desconhecido;true;true;;2022-01-06;;2022-01-13;;null;;0;;false

@@ -1,0 +1,30 @@
+Qual é o objetivo principal do DDD?
+
+    O foco principal se dá em como deve ser construído o(s) modelo(s) do projeto, ou seja, muita comunicação!
+    Focando bastante:
+        - em entender as intenções do cliente para com o projeto de forma clara.
+        - no domínio, a área de conhecimento que o projeto explora;
+        - no que é o software, qual o objetivo dele, sua proposta, como ser implementado.
+    O que direciona o caminho do desenvolvimento do projeto como um todo, já integrando suas partes.
+
+
+
+Qual é o impacto que DDD pode causar no projeto?
+
+    Pode acabar deixando o cliente mais satisfeito do que a média, já que as ideias do projeto serão bastante
+    discutidas, e muitas perguntas serão feitas para entender mais sobre como o projeto poderá ser e será construído.
+    Tendo foco em uma comunicação "Ubiquitous", que permite que pessoas de diversas áreas possam dar opiniões sobre
+    os diversos assuntos que surgirem.
+    
+    Desta forma, as partes também estarão mais integradas na manufatura do projeto, já que todas as equipes estarão a
+    par de como o projeto está sendo construído e também das possíveis mudanças que surgirem.
+
+    Projetos mais complexos poderão ter parte reutilizada em outros domínios. Já que comunicação e organização trazem
+    a possibilidade de maior fluidez do projeto, que garante uma base simplificada e elegante, com um nível anti-corrupção
+    que transforma esta camada em algo mais complexo e detalhado.
+
+    Tal comunicação também evita o desencontro de áreas atuantes do projeto, por exemplo, um banco de dados com dificuldade
+    de integração com a aplicação.
+
+    É necessária uma boa integração de equipe e que todos sigam a mesma ideia juntos, seja esta vinda do cliente, seja ela
+    bilateral. As mudanças devem ser cíclicas, e não disruptivas, para não afetar o desenvolvimento do projeto.

@@ -1,0 +1,12 @@
+Override
+	Quando uma classe que é derivada de outra classe escreve um método de mesmo
+    nome e com a mesma quantidade de parâmetros (do mesmo tipo) da classe mestre (da
+    qual foi derivada) acontecerá um Override. Onde o método herdado é
+    sobrescrito pelo novo método criado na sub-classe.
+
+Overload
+	Quando é criado um método com o nome de outro método já existente, no entanto
+    com número/tipo de parâmetros diferente(s) do anterior.
+        Desta forma, temos várias opções de métodos de mesmo nome. Na hora de chamar
+    um deles, o que vai decidir qual o chamado é justamente a quantidade e tipo dos
+    parâmetros passados na função.

@@ -1,0 +1,319 @@
+23;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+24;Guerra dos Tronos;George R. R. Martim;false;true
+25;Hobbit;Tolkien;false;false
+1;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+2;Guerra dos Tronos;George R. R. Martim;false;true
+3;Hobbit;Tolkien;false;true
+26;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+27;Guerra dos Tronos;George R. R. Martim;false;true
+28;Hobbit;Tolkien;false;true
+26;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+27;Guerra dos Tronos;George R. R. Martim;false;true
+28;Hobbit;Tolkien;false;true
+29;Novo Livro;desconhecido;false;true
+30;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+31;Guerra dos Tronos;George R. R. Martim;false;true
+32;Hobbit;Tolkien;true;true
+30;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+31;Guerra dos Tronos;George R. R. Martim;false;true
+32;Hobbit;Tolkien;false;true
+33;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+34;Guerra dos Tronos;George R. R. Martim;false;true
+35;Hobbit;Tolkien;false;true
+33;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+34;Guerra dos Tronos;George R. R. Martim;false;true
+35;Hobbit;Tolkien;false;true
+36;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+37;Guerra dos Tronos;George R. R. Martim;false;true
+38;Hobbit;Tolkien;false;false
+1;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+2;Guerra dos Tronos;George R. R. Martim;false;true
+3;Hobbit;Tolkien;false;true
+39;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+40;Guerra dos Tronos;George R. R. Martim;false;true
+41;Hobbit;Tolkien;false;true
+39;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+40;Guerra dos Tronos;George R. R. Martim;false;true
+41;Hobbit;Tolkien;false;true
+42;Novo Livro;desconhecido;false;true
+43;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+44;Guerra dos Tronos;George R. R. Martim;false;true
+45;Hobbit;Tolkien;true;true
+43;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+44;Guerra dos Tronos;George R. R. Martim;false;true
+45;Hobbit;Tolkien;false;true
+46;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+47;Guerra dos Tronos;George R. R. Martim;false;true
+48;Hobbit;Tolkien;false;true
+46;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+47;Guerra dos Tronos;George R. R. Martim;false;true
+48;Hobbit;Tolkien;false;true
+49;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+50;Guerra dos Tronos;George R. R. Martim;false;true
+51;Hobbit;Tolkien;false;false
+1;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+2;Guerra dos Tronos;George R. R. Martim;false;true
+3;Hobbit;Tolkien;false;true
+52;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+53;Guerra dos Tronos;George R. R. Martim;false;true
+54;Hobbit;Tolkien;false;true
+55;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+56;Guerra dos Tronos;George R. R. Martim;false;true
+57;Hobbit;Tolkien;false;true
+55;Novo Livro;desconhecido;false;true
+56;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+57;Guerra dos Tronos;George R. R. Martim;false;true
+58;Hobbit;Tolkien;true;true
+58;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+59;Guerra dos Tronos;George R. R. Martim;false;true
+60;Hobbit;Tolkien;false;true
+59;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+60;Guerra dos Tronos;George R. R. Martim;false;true
+61;Hobbit;Tolkien;false;true
+61;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+62;Guerra dos Tronos;George R. R. Martim;false;true
+63;Hobbit;Tolkien;false;true
+64;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+65;Guerra dos Tronos;George R. R. Martim;false;true
+66;Hobbit;Tolkien;false;false
+1;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+2;Guerra dos Tronos;George R. R. Martim;false;true
+3;Hobbit;Tolkien;false;true
+67;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+68;Guerra dos Tronos;George R. R. Martim;false;true
+69;Hobbit;Tolkien;false;true
+70;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+71;Guerra dos Tronos;George R. R. Martim;false;true
+72;Hobbit;Tolkien;false;true
+70;Novo Livro;desconhecido;false;true
+71;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+72;Guerra dos Tronos;George R. R. Martim;false;true
+73;Hobbit;Tolkien;true;true
+73;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+74;Guerra dos Tronos;George R. R. Martim;false;true
+75;Hobbit;Tolkien;false;true
+74;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+75;Guerra dos Tronos;George R. R. Martim;false;true
+76;Hobbit;Tolkien;false;true
+76;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+77;Guerra dos Tronos;George R. R. Martim;false;true
+78;Hobbit;Tolkien;false;true
+79;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+80;Guerra dos Tronos;George R. R. Martim;false;true
+81;Hobbit;Tolkien;false;false
+1;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+2;Guerra dos Tronos;George R. R. Martim;false;true
+3;Hobbit;Tolkien;false;true
+82;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+83;Guerra dos Tronos;George R. R. Martim;false;true
+84;Hobbit;Tolkien;false;true
+82;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+83;Guerra dos Tronos;George R. R. Martim;false;true
+84;Hobbit;Tolkien;false;true
+85;Novo Livro;desconhecido;false;true
+86;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+87;Guerra dos Tronos;George R. R. Martim;false;true
+88;Hobbit;Tolkien;true;true
+86;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+87;Guerra dos Tronos;George R. R. Martim;false;true
+88;Hobbit;Tolkien;false;true
+89;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+90;Guerra dos Tronos;George R. R. Martim;false;true
+91;Hobbit;Tolkien;false;true
+89;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+90;Guerra dos Tronos;George R. R. Martim;false;true
+91;Hobbit;Tolkien;false;true
+92;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+93;Guerra dos Tronos;George R. R. Martim;false;true
+94;Hobbit;Tolkien;false;false
+1;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+2;Guerra dos Tronos;George R. R. Martim;false;true
+3;Hobbit;Tolkien;false;true
+95;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+96;Guerra dos Tronos;George R. R. Martim;false;true
+97;Hobbit;Tolkien;false;true
+95;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+96;Guerra dos Tronos;George R. R. Martim;false;true
+97;Hobbit;Tolkien;false;true
+98;Novo Livro;desconhecido;false;true
+99;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+100;Guerra dos Tronos;George R. R. Martim;false;true
+101;Hobbit;Tolkien;true;true
+99;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+100;Guerra dos Tronos;George R. R. Martim;false;true
+101;Hobbit;Tolkien;false;true
+102;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+103;Guerra dos Tronos;George R. R. Martim;false;true
+104;Hobbit;Tolkien;false;true
+102;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+103;Guerra dos Tronos;George R. R. Martim;false;true
+104;Hobbit;Tolkien;false;true
+105;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+106;Guerra dos Tronos;George R. R. Martim;false;true
+107;Hobbit;Tolkien;false;false
+1;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+2;Guerra dos Tronos;George R. R. Martim;false;true
+3;Hobbit;Tolkien;false;true
+108;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+109;Guerra dos Tronos;George R. R. Martim;false;true
+110;Hobbit;Tolkien;false;true
+108;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+109;Guerra dos Tronos;George R. R. Martim;false;true
+110;Hobbit;Tolkien;false;true
+111;Novo Livro;desconhecido;false;true
+112;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+113;Guerra dos Tronos;George R. R. Martim;false;true
+114;Hobbit;Tolkien;true;true
+112;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+113;Guerra dos Tronos;George R. R. Martim;false;true
+114;Hobbit;Tolkien;false;true
+115;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+116;Guerra dos Tronos;George R. R. Martim;false;true
+117;Hobbit;Tolkien;false;true
+115;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+116;Guerra dos Tronos;George R. R. Martim;false;true
+117;Hobbit;Tolkien;false;true
+118;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+119;Guerra dos Tronos;George R. R. Martim;false;true
+120;Hobbit;Tolkien;false;false
+121;capa preta;desconhecido;false;true
+122;Crime e Castigo;Dostoievski;true;true
+123;capa preta;desconhecido;false;true
+124;Crime e Castigo;Dostoievski;true;true
+1;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+2;Guerra dos Tronos;George R. R. Martim;false;true
+3;Hobbit;Tolkien;false;true
+125;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+126;Guerra dos Tronos;George R. R. Martim;false;true
+127;Hobbit;Tolkien;false;true
+125;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+126;Guerra dos Tronos;George R. R. Martim;false;true
+127;Hobbit;Tolkien;false;true
+128;Novo Livro;desconhecido;false;true
+129;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+130;Guerra dos Tronos;George R. R. Martim;false;true
+131;Hobbit;Tolkien;true;true
+129;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+130;Guerra dos Tronos;George R. R. Martim;false;true
+131;Hobbit;Tolkien;false;true
+132;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+133;Guerra dos Tronos;George R. R. Martim;false;true
+134;Hobbit;Tolkien;false;true
+132;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+133;Guerra dos Tronos;George R. R. Martim;false;true
+134;Hobbit;Tolkien;false;true
+135;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+136;Guerra dos Tronos;George R. R. Martim;false;true
+137;Hobbit;Tolkien;false;false
+1;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+2;Guerra dos Tronos;George R. R. Martim;false;true
+3;Hobbit;Tolkien;false;true
+138;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+139;Guerra dos Tronos;George R. R. Martim;false;true
+140;Hobbit;Tolkien;false;true
+138;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+139;Guerra dos Tronos;George R. R. Martim;false;true
+140;Hobbit;Tolkien;false;true
+141;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+142;Guerra dos Tronos;George R. R. Martim;false;true
+143;Hobbit;Tolkien;false;true
+141;Novo Livro;desconhecido;false;true
+142;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+143;Guerra dos Tronos;George R. R. Martim;false;true
+144;Hobbit;Tolkien;true;true
+144;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+145;Guerra dos Tronos;George R. R. Martim;false;true
+146;Hobbit;Tolkien;false;true
+145;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+146;Guerra dos Tronos;George R. R. Martim;false;true
+147;Hobbit;Tolkien;false;true
+147;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+148;Guerra dos Tronos;George R. R. Martim;false;true
+149;Hobbit;Tolkien;false;true
+150;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+151;Guerra dos Tronos;George R. R. Martim;false;true
+152;Hobbit;Tolkien;false;false
+153;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+154;Guerra dos Tronos;George R. R. Martim;false;true
+155;Hobbit;Tolkien;false;true
+156;As Intermitências da Morte;José Saramago;false;true
+157;Enchiridion;Epiteto;false;true
+158;Ética;Espinoza;false;true
+159;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;false;true
+160;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+161;Guerra dos Tronos;George R. R. Martim;false;true
+162;Hobbit;Tolkien;false;true
+163;As Intermitências da Morte;José Saramago;false;true
+164;Enchiridion;Epiteto;false;true
+165;Ética;Espinoza;false;true
+166;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;false;true
+167;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+168;Guerra dos Tronos;George R. R. Martim;false;true
+169;Hobbit;Tolkien;false;true
+170;As Intermitências da Morte;José Saramago;false;true
+171;Enchiridion;Epiteto;false;true
+172;Ética;Espinoza;false;true
+173;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;false;true
+174;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+175;Guerra dos Tronos;George R. R. Martim;false;true
+176;Hobbit;Tolkien;true;true
+177;As Intermitências da Morte;José Saramago;true;true
+178;Enchiridion;Epiteto;false;true
+179;Ética;Espinoza;false;true
+180;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;false;true
+181;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+182;Guerra dos Tronos;George R. R. Martim;true;true
+183;Hobbit;Tolkien;true;true
+184;As Intermitências da Morte;José Saramago;true;true
+185;Enchiridion;Epiteto;true;true
+186;Ética;Espinoza;false;true
+187;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;false;true
+188;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+189;Guerra dos Tronos;George R. R. Martim;false;true
+190;Hobbit;Tolkien;false;true
+191;As Intermitências da Morte;José Saramago;false;true
+192;Enchiridion;Epiteto;false;true
+193;Ética;Espinoza;false;true
+194;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;true;true
+195;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+196;Guerra dos Tronos;George R. R. Martim;false;true
+197;Hobbit;Tolkien;false;true
+198;As Intermitências da Morte;José Saramago;false;true
+199;Enchiridion;Epiteto;false;true
+200;Ética;Espinoza;false;true
+201;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;false;true
+202;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+203;Guerra dos Tronos;George R. R. Martim;false;true
+204;Hobbit;Tolkien;false;true
+205;As Intermitências da Morte;José Saramago;true;true
+206;Enchiridion;Epiteto;true;true
+207;Ética;Espinoza;true;true
+208;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;true;true
+209;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+210;Guerra dos Tronos;George R. R. Martim;false;true
+211;Hobbit;Tolkien;false;true
+212;As Intermitências da Morte;José Saramago;false;true
+213;Enchiridion;Epiteto;false;true
+214;Ética;Espinoza;false;true
+215;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;false;true
+216;Guia do Mochileiro das Galáxias;Douglas Adams;false;true
+217;Guerra dos Tronos;George R. R. Martim;false;true
+218;Hobbit;Tolkien;false;true
+219;As Intermitências da Morte;José Saramago;false;true
+220;Enchiridion;Epiteto;false;true
+221;Ética;Espinoza;false;true
+222;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;true;true
+223;Guia do Mochileiro das Galáxias;Douglas Adams;true;true
+224;Guerra dos Tronos;George R. R. Martim;true;true
+225;Hobbit;Tolkien;true;true
+226;As Intermitências da Morte;José Saramago;true;true
+227;Enchiridion;Epiteto;true;true
+228;Ética;Espinoza;true;true
+229;Harry Potter e a Pedra Filosofal;J. K. K. Roulling;true;true
+230;teste;desconhecido;true;true
+231;teste;desconhecido;true;true
+232;teste;desconhecido;true;true
+233;teste;desconhecido;true;true
+234;teste;desconhecido;true;true
+235;teste;desconhecido;true;true
+236;teste;desconhecido;true;true

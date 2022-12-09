@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    implementation group: 'javax.mail', name: 'javax.mail-api', version: '1.6.2'
+    testImplementation group: 'org.mockito', name: 'mockito-all', version: '1.10.19'
+}
+
+test {
+    useJUnitPlatform()
+}

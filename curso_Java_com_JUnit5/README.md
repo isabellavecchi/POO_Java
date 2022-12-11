@@ -13,5 +13,6 @@ Testes com JUnit5: a partir do Tema5.
 
 Estes desafios foram concluídos graças aos cursos de Java e Java POO do canal do YouTube "Curso em Vídeo":
 
-https://www.youtube.com/watch?v=sTX0UEplF54&list=PLJH2yd19u4hzRtpzm2dDCWZx58UrE85ye
-https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
+https://www.youtube.com/watch?v=sTX0UEplF54&list=PLJH2yd19u4hzRtpzm2dDCWZx58UrE85ye https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
+
+E também agradeço à mentoria da Ilegra.

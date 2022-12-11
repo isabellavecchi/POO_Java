@@ -1,3 +1,13 @@
+#### Tema 10: Agenda de contato + banco de dados
+
+```
+Criar um projeto de agenda de contato (id, nome, telefone, email)
+Deve ser possível adicionar contato, remover contato, listar contato (ordenar por nome/id), buscar por nome, buscar por id.
+Todas as operações devem envolver banco de dados.
+Fazer PR
+```
+
+#### Instruções
 Para rodar o script do banco em sua máquina, basta apenas:
     -instalar o postgresql
     -baixar o driver JDBC e incluí-lo no path do projeto

@@ -1,0 +1,60 @@
+CREATE DATABASE trabalho_final
+CREATE SCHEMA biblioteca;
+
+--DROP TABLE biblioteca.tb_emprestimo;
+--DROP TABLE biblioteca.tb_cliente;
+--DROP TABLE biblioteca.tb_livro;
+--DROP SEQUENCE biblioteca.sq_cliente;	
+--DROP SEQUENCE biblioteca.sq_livro;
+--DROP SEQUENCE biblioteca.sq_emprestimo;
+
+CREATE SEQUENCE biblioteca.sq_cliente
+	START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+CREATE SEQUENCE biblioteca.sq_livro
+	START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+CREATE SEQUENCE biblioteca.sq_emprestimo
+	START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+CREATE TABLE biblioteca.tb_cliente(
+	id_cliente	INTEGER			PRIMARY KEY		DEFAULT nextval('biblioteca.sq_cliente'),
+	nome		VARCHAR(200)	NOT NULL,
+	endereco	VARCHAR(300)	NOT NULL,
+	idade		INTEGER			NOT NULL,
+	fg_em_dia	BOOLEAN			NOT NULL		DEFAULT true
+);
+
+CREATE TABLE biblioteca.tb_livro(
+	id_livro		INTEGER			PRIMARY KEY		DEFAULT nextval('biblioteca.sq_livro'),
+	titulo			VARCHAR(200)	NOT NULL,
+	autor			VARCHAR(200)	NOT NULL,
+	fg_emprestado	BOOLEAN			NOT NULL
+);
+
+CREATE TABLE biblioteca.tb_emprestimo(
+	id_emprestimo	INTEGER		PRIMARY KEY		DEFAULT nextval('biblioteca.sq_emprestimo'),
+	id_cliente		INTEGER		NOT NULL,
+	id_livro		INTEGER		NOT NULL,
+	data_locacao	DATE 		NOT NULL		DEFAULT CURRENT_DATE,
+	data_a_devolver	DATE		NOT NULL		DEFAULT CURRENT_DATE+7,
+	data_devolucao	DATE				,
+	fg_quitado		BOOLEAN		NOT NULL		DEFAULT false,
+		FOREIGN KEY (id_cliente) REFERENCES biblioteca.tb_cliente(id_cliente),
+		FOREIGN KEY (id_livro) REFERENCES biblioteca.tb_livro(id_livro)
+);
+
+INSERT INTO biblioteca.tb_cliente(nome, endereco, idade)
+VALUES ('isabella', 'Joao xxiii', 27);
